@@ -1,5 +1,5 @@
 <p align="center">
-<img width="120px" src="https://github.com/TheIcy/Zaluea/blob/main/Site/images/logo.png?raw=true">
+<img width="120px" src="https://github.com/TheIcy/Zaluea/blob/main/Site/images/logo.png?raw=false">
 </p>
 
 # Zaluea Network
