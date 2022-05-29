@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <img width="120px" src="https://github.com/TheIcy/Zaluea/blob/main/Site/images/logo.png?raw=false">
 </p>
 
