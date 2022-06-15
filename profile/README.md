@@ -1,12 +1,13 @@
 <p align="center">
-<img width="120px" src="https://github.com/TheIcy/Zaluea/blob/main/Site/images/logo.png?raw=false">
+<img height="190px" src="https://github.com/TheIcy/Zaluea/blob/main/Site/images/logo.png?raw=false">
 </p>
 
-# Zaluea Network
-Zaluea Network is a small organization that creates web proxy's.
+<h1 align="center">
+Zaluea Network
+</h1>
 
-## Proxy site's
+### Proxy sites
 - [Zaluea](zaluea-proxy-official.herokuapp.com)
 
-## Discord
+### Discord
 Join the [Discord server](https://discord.gg/dE7puEgwap)
